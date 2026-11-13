@@ -9,3 +9,4 @@ Käsurealt kloonimiseks kasuta käsku:
 git clone https://github.com/unitartu-edu/cta-workshop
 ```
 
+Mina olen siin!
